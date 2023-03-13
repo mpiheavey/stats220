@@ -10,9 +10,9 @@ The tasks in the assignment were to
 2. Using R studio to create a meme using functions from the magick library, which included:
   * image_blank()
   * image_read()
-  *c()
-  *image_annotate()
-  *image_append()
+  * c()
+  * image_annotate()
+  * image_append()
   * And other code such as pipies, naming objects and using comments 
 
 ## Other Project tasks were to:
