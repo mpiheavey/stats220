@@ -6,8 +6,8 @@ _This is a project that has taught me many ways of using R._
 
 The tasks in the assignment were to 
 
-* Create our first github account!
-* Using R studio to create a meme using functions from the magick library, which included:
+1 Create our first github account!
+2 Using R studio to create a meme using functions from the magick library, which included:
   * image_blank()
   * image_read()
   *c()
