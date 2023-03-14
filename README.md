@@ -20,6 +20,6 @@ The tasks in the assignment were to
 - Create a GIF (animation) 
 - Create a HTML
 - Create a Github page website: here is my link!
-  -  link - 
+  -  link - https://75325f6d732244d791b847dbf140cfb0.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2Findex.html
 - Create a Report📓
 
